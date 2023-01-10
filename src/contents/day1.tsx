@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 // 1일차 note
 
 // TypeScript 변수 선언법
